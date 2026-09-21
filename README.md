@@ -23,9 +23,9 @@ compliance auditing, and threat investigation.
 
 | Credential | Status |
 |---|---|
-| B.Sc. Computer Science — [University Name] | In Progress (Expected [Year]) |
-| Google IT Support Professional Certificate | In Progress |
-| Google Cybersecurity Professional Certificate | In Progress |
+| B.Sc. Computer Science — El Shorouk Academy | In Progress (Expected [2027]) |
+| Google IT Support Professional Certificate | completed |
+| Google Cybersecurity Professional Certificate | completd |
 | CompTIA Security+ | Planned |
 
 ---
@@ -69,7 +69,7 @@ and incident reporting in a controlled setting.
 
 ## Currently Working On
 
-- Completing the Google Cybersecurity Professional Certificate
+
 - Building incident response simulations using Wazuh in my home lab
 - Practicing SOC analyst workflows through Blue Team Labs Online 
   and LetsDefend
@@ -79,9 +79,9 @@ and incident reporting in a controlled setting.
 
 ## Connect
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your professional email]
-- **Location:** Egypt
+- **LinkedIn:** www.linkedin.com/in/magdy-muhammad-430843378
+- **Email:** magdydiab2004@gmail.com
+- **Location:** Egypt, Qalyub, Obour city.
 
 ---
 
