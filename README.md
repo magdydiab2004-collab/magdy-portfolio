@@ -51,6 +51,9 @@ and SOC 2 frameworks. Includes a severity rating scale, structured
 recommendations format, and stakeholder responsibility mapping.
 [Controls & Compliance Audit](https://github.com/magdydiab2004-collab/magdy-portfolio/blob/main/Controls%20and%20compliance%20checklist%20.docx)
 
+### Toys R Us Security Audit
+A comprehensive security assessment evaluating potential vulnerabilities, compliance gaps, and actionable mitigation strategies to improve the organization's security posture.
+[Toys R Us Security Audit]([https://github.com/magdydiab2004-collab/magdy-portfolio/blob/main/Controls%20and%20compliance%20checklist%20.docx](https://github.com/magdydiab2004-collab/magdy-portfolio/blob/main/ToysRus%20security%20audit.pdf))
 > **Tools & Frameworks:** NIST CSF, PCI DSS, GDPR, SOC 2
 > **Skills demonstrated:** Risk assessment, compliance auditing, 
 > security documentation
