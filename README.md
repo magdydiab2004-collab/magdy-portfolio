@@ -37,7 +37,7 @@ compliance auditing, and threat investigation.
 - **Frameworks:** MITRE ATT&CK, NIST CSF, PCI DSS, GDPR, SOC 2
 - **Compliance:** Security auditing, controls assessment, risk documentation
 - **Virtualization & Lab:** VMware, Docker
-- **Languages:** Python (fundamentals), Bash
+- **Languages:** C++, Python, Bash
 - **Operating Systems:** Windows, Linux (Ubuntu)
 
 ---
