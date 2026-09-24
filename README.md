@@ -33,11 +33,11 @@ compliance auditing, and threat investigation.
 ## Technical Skills
 
 - **SIEM & Detection:** Wazuh, Splunk (fundamentals)
-- **Threat Analysis:** Log analysis, IOC extraction, phishing investigation
+- **Threat Analysis:** Log analysis, IOC extraction, phishing investigation, Log analysis using SQL
 - **Frameworks:** MITRE ATT&CK, NIST CSF, PCI DSS, GDPR, SOC 2
 - **Compliance:** Security auditing, controls assessment, risk documentation
 - **Virtualization & Lab:** VMware, Docker
-- **Languages:** C++, Python, Bash
+- **Languages:** C++, Python, Bash, SQL
 - **Operating Systems:** Windows, Linux (Ubuntu)
 
 ---
