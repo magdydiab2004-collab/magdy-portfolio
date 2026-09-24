@@ -25,8 +25,8 @@ compliance auditing, and threat investigation.
 |---|---|
 | B.Sc. Computer Science — El Shorouk Academy | In Progress (Expected [2027]) |
 | Cisco Introduction to Cybersecurity | Completed |
-| Google IT Support Professional Certificate | completed |
-| Google Cybersecurity Professional Certificate | completed |
+| Google IT Support Professional Certificate | Completed |
+| Google Cybersecurity Professional Certificate | Completed |
 | CompTIA Security+ | Planned |
 
 ---
