@@ -54,7 +54,7 @@ A lightweight network intrusion detection pipeline built in Python to inspect pa
 A reusable, professional-grade security audit template covering 
 administrative, technical, and physical controls across PCI DSS, GDPR, SOC and Egypt’s Personal Data Protection Law (Law No. 151 of 2020) regulatory frameworks. Includes a severity rating scale, structured 
 recommendations format, and stakeholder responsibility mapping.
-[Controls & Compliance Audit](https://github.com/magdydiab2004-collab/magdy-portfolio/blob/main/Controls%20and%20compliance%20checklist%20.docx)
+[Controls & Compliance Audit](https://github.com/magdydiab2004-collab/magdy-portfolio/blob/main/Controls%20and%20compliance%20checklist/Controls%20and%20compliance%20checklist.pdf)
 
 ### Toys R Us Security Audit
 A comprehensive security assessment evaluating potential vulnerabilities, compliance gaps, and actionable mitigation strategies to improve the organization's security posture.
