@@ -45,10 +45,14 @@ compliance auditing, and threat investigation.
 
 ## Portfolio Projects
 
+### TCP SYN Port Scan Detector & Inspection Pipeline
+A lightweight network intrusion detection pipeline built in Python to inspect packet captures, analyze protocol distributions, and automatically flag TCP SYN port scan activity using heuristic thresholds. Designed with a synthetic test suite to validate detection logic against both malicious and benign traffic.
+[View Repository]((https://github.com/magdydiab2004-collab/ids-port-scan-detector))
+
+
 ### Controls & Compliance Audit Template
 A reusable, professional-grade security audit template covering 
-administrative, technical, and physical controls across PCI DSS, GDPR, 
-and SOC 2 frameworks. Includes a severity rating scale, structured 
+administrative, technical, and physical controls across PCI DSS, GDPR, SOC and Egypt’s Personal Data Protection Law (Law No. 151 of 2020) regulatory frameworks. Includes a severity rating scale, structured 
 recommendations format, and stakeholder responsibility mapping.
 [Controls & Compliance Audit](https://github.com/magdydiab2004-collab/magdy-portfolio/blob/main/Controls%20and%20compliance%20checklist%20.docx)
 
