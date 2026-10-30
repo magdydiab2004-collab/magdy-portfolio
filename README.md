@@ -47,7 +47,7 @@ compliance auditing, and threat investigation.
 
 ### TCP SYN Port Scan Detector & Inspection Pipeline
 A lightweight network intrusion detection pipeline built in Python to inspect packet captures, analyze protocol distributions, and automatically flag TCP SYN port scan activity using heuristic thresholds. Designed with a synthetic test suite to validate detection logic against both malicious and benign traffic.
-[View Repository]((https://github.com/magdydiab2004-collab/ids-port-scan-detector))
+[View Repository](https://github.com/magdydiab2004-collab/ids-port-scan-detector)
 
 
 ### Controls & Compliance Audit Template
