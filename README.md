@@ -1,4 +1,3 @@
-
 # Magdy Muhammad
 
 **Computer Science Student | Aspiring SOC Analyst | Defensive Security**
@@ -7,15 +6,70 @@
 
 ## About Me
 
-I am a final-year Computer Science student based in Egypt, specializing 
-in defensive security and security operations. My goal is to contribute 
-to a Security Operations Center (SOC) environment where I can apply 
-analytical thinking and technical knowledge to detect, investigate, and 
-respond to real-world threats.
+Final-year Computer Science student in Egypt specializing in defensive
+security. I'm aiming for a Tier 1 SOC analyst role, where I can apply
+analytical thinking to detect, investigate, and respond to threats.
 
-I am actively building a portfolio of hands-on security work alongside 
-my academic studies, with a focus on incident detection, log analysis, 
-compliance auditing, and threat investigation.
+I'm building hands-on work alongside my studies, focused on detection
+engineering, log analysis, incident response, and compliance auditing.
+
+---
+
+## Portfolio Projects
+
+### TCP SYN Port Scan Detector (IDS) → IPS Prototype
+A Python network intrusion detection tool that inspects packet captures
+(.pcap) and flags TCP SYN port scans. It alerts when one source contacts
+20+ distinct ports on a destination, and it's validated with synthetic
+test traffic covering both malicious and benign cases.
+
+- **Maps to:** MITRE ATT&CK T1046 (Network Service Discovery)
+- **My role:** [WHAT YOU BUILT, e.g. detection logic, test suite]
+- **In progress:** an IPS prototype that adds a second detection rule
+  and blocks flagged IPs
+- **Sample output:** [SCREENSHOT OR PASTED ALERT]
+
+[View Repository](https://github.com/magdydiab2004-collab/ids-port-scan-detector)
+
+### Home Lab: Incident Detection & Response *(In Progress)*
+A virtualized lab for practicing alert triage, log correlation, and
+incident reporting: [VICTIM VM + SIEM HOST], a ransomware simulation, and
+detection with [WAZUH / ELASTIC / SPLUNK].
+
+- **Tools:** VMware, Docker, [SIEM]
+- **Deliverable:** incident response report with MITRE ATT&CK mapping and
+  log analysis ([KQL / SPL])
+- **Status:** [WHAT'S DONE SO FAR]
+- [Read the IR report](LINK) *(add once published, even as a draft)*
+
+### Controls & Compliance Audit Template
+A reusable audit template covering administrative, technical, and physical
+controls across PCI DSS, GDPR, SOC 2, and Egypt's Personal Data Protection
+Law (Law No. 151 of 2020). Includes a severity rating scale, a structured
+recommendations format, and stakeholder responsibility mapping.
+
+[View the template](https://github.com/magdydiab2004-collab/magdy-portfolio/blob/main/Controls%20and%20compliance%20checklist/Controls%20and%20compliance%20checklist.pdf)
+
+### Toys R Us Security Audit
+A security assessment based on the Google Cybersecurity Certificate
+exercise, covering vulnerabilities, compliance gaps, and recommended
+mitigations. I extended it by [WHAT YOU ADDED].
+
+- **Frameworks:** NIST CSF, PCI DSS, GDPR, SOC 2
+
+[View the audit](https://github.com/magdydiab2004-collab/magdy-portfolio/blob/main/ToysRus%20security%20audit.pdf)
+
+---
+
+## Technical Skills
+
+- **SIEM & Detection:** Wazuh, Splunk (fundamentals)
+- **Analysis:** Log analysis (including SQL), MITRE ATT&CK mapping
+- **Frameworks:** NIST CSF, PCI DSS, GDPR, SOC 2
+- **Compliance:** Security auditing, controls assessment, risk documentation
+- **Lab & Virtualization:** VMware, Docker
+- **Languages:** Python, Bash, SQL, C++
+- **Operating Systems:** Windows, Linux (Ubuntu)
 
 ---
 
@@ -23,78 +77,29 @@ compliance auditing, and threat investigation.
 
 | Credential | Status |
 |---|---|
-| B.Sc. Computer Science — El Shorouk Academy | In Progress (Expected [2027]) |
-| Cisco Introduction to Cybersecurity | Completed |
-| Google IT Support Professional Certificate | [Completed](https://www.coursera.org/account/accomplishments/specialization/certificate/652E6X3UX5XI) |
+| B.Sc. Computer Science, El Shorouk Academy | Expected 2027 |
 | Google Cybersecurity Professional Certificate | [Completed](https://www.coursera.org/account/accomplishments/specialization/certificate/7VDL6FIT26XW) |
+| Google IT Support Professional Certificate | [Completed](https://www.coursera.org/account/accomplishments/specialization/certificate/652E6X3UX5XI) |
+| Cisco Introduction to Cybersecurity | Completed |
 | CompTIA Security+ | Planned |
-
----
-
-## Technical Skills
-
-- **SIEM & Detection:** Wazuh, Splunk (fundamentals)
-- **Threat Analysis:** Log analysis, IOC extraction, phishing investigation, Log analysis using SQL
-- **Frameworks:** MITRE ATT&CK, NIST CSF, PCI DSS, GDPR, SOC 2
-- **Compliance:** Security auditing, controls assessment, risk documentation
-- **Virtualization & Lab:** VMware, Docker
-- **Languages:** C++, Python, Bash, SQL
-- **Operating Systems:** Windows, Linux (Ubuntu)
-
----
-
-## Portfolio Projects
-
-### TCP SYN Port Scan Detector & Inspection Pipeline
-A lightweight network intrusion detection pipeline built in Python to inspect packet captures, analyze protocol distributions, and automatically flag TCP SYN port scan activity using heuristic thresholds. Designed with a synthetic test suite to validate detection logic against both malicious and benign traffic.
-[View Repository](https://github.com/magdydiab2004-collab/ids-port-scan-detector)
-
-
-### Controls & Compliance Audit Template
-A reusable, professional-grade security audit template covering 
-administrative, technical, and physical controls across PCI DSS, GDPR, SOC and Egypt’s Personal Data Protection Law (Law No. 151 of 2020) regulatory frameworks. Includes a severity rating scale, structured 
-recommendations format, and stakeholder responsibility mapping.
-[Controls & Compliance Audit](https://github.com/magdydiab2004-collab/magdy-portfolio/blob/main/Controls%20and%20compliance%20checklist/Controls%20and%20compliance%20checklist.pdf)
-
-### Toys R Us Security Audit
-A comprehensive security assessment evaluating potential vulnerabilities, compliance gaps, and actionable mitigation strategies to improve the organization's security posture.
-[Toys R Us Security Audit](https://github.com/magdydiab2004-collab/magdy-portfolio/blob/main/ToysRus%20security%20audit.pdf)
-
-
-> **Tools & Frameworks:** NIST CSF, PCI DSS, GDPR, SOC 2
-> **Skills demonstrated:** Risk assessment, compliance auditing, 
-> security documentation
-
----
-
-### Home Lab — Incident Detection & Response *(In Progress)*
-A virtualized home lab environment built to simulate and investigate 
-security incidents. Designed to practice alert triage, log correlation, 
-and incident reporting in a controlled setting.
-
-> **Tools:** VMware, Docker, Wazuh
-> **Skills demonstrated:** Threat detection, log analysis, 
-> IR documentation
 
 ---
 
 ## Currently Working On
 
-
-- Building incident response simulations using Wazuh in my home lab
-- Practicing SOC analyst workflows through Blue Team Labs Online 
-  and LetsDefend
-- Preparing for the CompTIA Security+ examination
+- Incident response simulations with [SIEM] in my home lab
+- SOC analyst practice on Blue Team Labs Online ([PROFILE LINK]) and
+  LetsDefend ([PROFILE LINK])
+- Preparing for CompTIA Security+
 
 ---
 
 ## Connect
 
-- **LinkedIn:** www.linkedin.com/in/magdy-muhammad-430843378
+- **LinkedIn:** https://www.linkedin.com/in/magdy-muhammad-430843378
 - **Email:** magdydiab2004@gmail.com
-- **Location:** Egypt, Qalyub, Obour city.
+- **Location:** Egypt
 
 ---
 
-*This portfolio is actively being built. New projects are added 
-as they are completed.*
+*Actively being built. New projects are added as they're completed.*
